@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/vraj_chovatiya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://twitter.com/vraj_chovatiya">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <img src="https://github.com/vraj-chovatiya" alt=""/>
