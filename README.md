@@ -5,7 +5,7 @@
  🔭 I’m currently working on projects and doing compititive programming. <br>
  🌱 I’m currently studying BCA. <br>
  👯 I’m looking to collaborate on open source projects. <br>
- 💬 Ask me about anything.<br>
+ 💬 Ask me about anything.<br><br>
 </div>
 
 
@@ -13,6 +13,8 @@
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asdsda)](https://github.com/asdsda/github-readme-stats)
 
 
 <img src="https://github.com/vraj-chovatiya" alt=""/>
