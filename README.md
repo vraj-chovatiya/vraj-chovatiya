@@ -1,10 +1,12 @@
 <h1 align="center"> Hii ✌🏻, I'am Vraj Chovatiya </h1>
 
+<div>
 <h2> 👨‍💻 About me </h2>
- 🔭 I’m currently working on projects and doing compititive programming.
- 🌱 I’m currently studying BCA. 
- 👯 I’m looking to collaborate on open source projects.
+ 🔭 I’m currently working on projects and doing compititive programming. <br>
+ 🌱 I’m currently studying BCA. <br>
+ 👯 I’m looking to collaborate on open source projects. <br>
  💬 Ask me about anything.
+</div>
 
 
 
