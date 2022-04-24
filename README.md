@@ -1,12 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hii ✌🏻, I'am Vraj Chovatiya </h1>
 
-Here are some ideas to get you started:
-
-- 👨‍💻 About me
-- 🔭 I’m currently working on projects and doing compititive programming.
-- 🌱 I’m currently studying BCA. 
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything.
+<h2> 👨‍💻 About me </h2>
+ 🔭 I’m currently working on projects and doing compititive programming.
+ 🌱 I’m currently studying BCA. 
+ 👯 I’m looking to collaborate on open source projects.
+ 💬 Ask me about anything.
 
 
 
