@@ -14,8 +14,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asdsda)](https://github.com/asdsda/github-readme-stats)
-
 
 <img src="https://github.com/vraj-chovatiya" alt=""/>
 
