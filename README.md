@@ -1,4 +1,4 @@
-<h1 align="center"> Hii ✌🏻, I'am Vraj Chovatiya </h1>
+<h1 align="center">Hii ✌🏻, I'am Vraj Chovatiya</h1>
 
 <div>
   <h3> 👨‍💻 About me </h3>
