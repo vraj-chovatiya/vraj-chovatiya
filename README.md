@@ -14,7 +14,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
 <img src="https://github.com/vraj-chovatiya" alt=""/>
 
 <h2>🖥️ Tech Stach </h2>
