@@ -1,6 +1,7 @@
 <h1 align="center">Hii ✌🏻, I'am Vraj Chovatiya</h1>
 
 <div>
+  
   <h3>👨‍💻 About me</h3>
  🔭 I’m currently working on projects and doing compititive programming. <br>
  💡  I like to explore new technologies and develop software solutions and quick hacks.<br>
