@@ -9,6 +9,7 @@
  👯 I’m looking to collaborate on open source projects. <br>
  ✉️  You can contact me an email at vrajchovatiya11gmail.com. I'll try to respond as soon as I can.
  💬 Ask me about anything.<br><br><br>
+  
 </div>
 
 <div id="header">
