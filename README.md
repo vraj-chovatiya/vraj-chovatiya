@@ -32,7 +32,7 @@
   
  
   <h2> 📞 Connect with me </h2>
-  <a href="https://www.linkedin.com/in/vraj-chovatiya/">
+  <a href="https://www.linkedin.com/in/vraj-chovatiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
