@@ -4,7 +4,7 @@
   <h3>👨‍💻 About me</h3>
  🔭 I’m currently working on projects and doing compititive programming. <br>
  💡  I like to explore new technologies and develop software solutions and quick hacks.<br>
- 🌱 I’m currently studying BCA at the C.B.Patel Computer College Surat Gujarat.<br>
+ 🌱 I’m currently studying MCA at the Nirma University - Ahmedabad, Gujarat.<br>
  👯 I’m looking to collaborate on open source projects. <br>
  ✉️  You can contact me an email at vrajchovatiya414gmail.com. I'll try to respond as soon as I can.
  💬 Ask me about anything.<br><br><br>
