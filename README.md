@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **react, javascript, c++**
 
-- 📫 How to reach me **23mca009@nirmauni.ac.in**
+- 📫 To reach me **23mca009@nirmauni.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
